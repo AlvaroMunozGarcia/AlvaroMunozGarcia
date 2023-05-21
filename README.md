@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Álvaro Muñoz García</h1>
-<h3 align="center">A passionate frontend developer from Motril SpainIndia</h3>
+<h3 align="center">A passionate frontend developer from Motril (Spain)</h3>
 
 - 🔭 I’m currently working on [pagina](https://alvaromunozgarcia.github.io/pagina/)
 
